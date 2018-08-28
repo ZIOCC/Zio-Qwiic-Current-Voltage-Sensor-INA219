@@ -1,0 +1,15 @@
+<table>
+<tr><td></td> <td><b>BOM/PCBA quantity:</b></td> </tr> <tr><td></td> <td><b>Project Name:</b></td></tr></table>
+<table>
+<tr><td><b>#</b></td><td><b>Part ID/Reference</b></td><td><b>Manufacturer</b></td><td><b>Part Number</b></td><td><b>Description</b></td><td><b>Value</b></td><td><b>Package</b></td><td><b>THT</b></td><td><b>Pins/Pads Qty</b></td><td><b>Source/Link/Datasheet/Note</b></td><td><b>Quantity/per BOM</b></td><td><b>NOTE</b></td><td><b></b></td></tr>
+<tr><td></td><td>C1</td><td></td><td></td><td></td><td>100nF ±10% 50V</td><td>C0603</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr>
+<tr><td></td><td>J1</td><td></td><td></td><td></td><td></td><td>6P-2.54-60/35MIL</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr>
+<tr><td></td><td>J2, J3</td><td></td><td></td><td></td><td>JST-SH-4P-1.0</td><td>JST-SH-4P</td><td></td><td></td><td></td><td>2</td><td></td><td></td></tr>
+<tr><td></td><td>J6</td><td></td><td></td><td></td><td>TERMBLOCK_1X2-3.5MM</td><td>1X2-3.5MM</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr>
+<tr><td></td><td>JP1</td><td></td><td></td><td></td><td>SMT-JUMPER_3_2-NC_TRACE</td><td>SMT-JUMPER_3_2-NC_TRACE</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr>
+<tr><td></td><td>JP2, JP3</td><td></td><td></td><td></td><td>JUMPER-SMT_2_NC_PASTE_NOCREM</td><td>SMT-JUMPER_2_NC_PASTE_SILK_NOCREM</td><td></td><td></td><td></td><td>2</td><td></td><td></td></tr>
+<tr><td></td><td>R1, R2</td><td></td><td></td><td></td><td>4.7K ±1%</td><td>R0603</td><td></td><td></td><td></td><td>2</td><td></td><td></td></tr>
+<tr><td></td><td>R3</td><td></td><td></td><td></td><td>0.1R ±1%(PT2512FK-070R1L)</td><td>R2512</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr>
+<tr><td></td><td>R4, R5</td><td></td><td></td><td></td><td>10K ±1%</td><td>R0603</td><td></td><td></td><td></td><td>2</td><td></td><td></td></tr>
+<tr><td></td><td>U1</td><td></td><td></td><td></td><td>INA219BIDCNT</td><td>SOT23-8</td><td></td><td></td><td></td><td>1</td><td></td><td></td></tr>
+</table>
